@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "decksbrasil",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
